@@ -1,4 +1,4 @@
-A repo of script file that make our lives easier.
+A repo of script files that make our lives easier.
 
 setup_forge3.rb
 ===============
