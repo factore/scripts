@@ -14,6 +14,6 @@ Then to create a new project:
 3. Navigate to where you want your project folder to live.
 4. Ensure you are using the correct ruby -- the one you use for forge3 projects.
 
-Then run and wait for the magics to happpen:
+Then run the following and wait for the magics to happpen:
 
     $ sf3 new_project
