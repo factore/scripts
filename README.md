@@ -17,3 +17,9 @@ Then to create a new project:
 Then run the following (where new_project is the name of the git repo) and wait for the magics to happpen:
 
     $ sf3 new_project
+
+Notes:
+======
+* You might need to edit the line: bundle install --path vendor --without linux to reflect your OS
+* You will need to change the credentials for: bundle exec rake forge:setup_database USERNAME=root PASSWORD=root
+
