@@ -1,10 +1,10 @@
 #!/bin/bash
 PROJECT=$1
-GITHUB_USERNAME=
-GITHUB_PASSWORD=
-GITHUB_COLLABORATORS=(  )
-MYSQL_USERNAME=
-MYSQL_PASSWORD=
+GITHUB_USERNAME=name
+GITHUB_PASSWORD=password
+GITHUB_COLLABORATORS=( collab1 collab-2 etc )
+MYSQL_USERNAME=un
+MYSQL_PASSWORD=pw
 # put path to socket in "" if needed, leave blank otherwise
 MYSQL_SOCKET=
 
